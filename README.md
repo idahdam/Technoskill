@@ -10,8 +10,7 @@
 
 ### Day 2
 
-- Empty.
+
 
 ### Day 3
 
-- Empty.

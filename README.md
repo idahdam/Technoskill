@@ -9,6 +9,9 @@
 - [File Hands On](https://raw.githubusercontent.com/idahdam/Technoskill/master/dna_size_5000.txt)
 
 ### Day 2
+
 - Empty.
+
 ### Day 3
+
 - Empty.

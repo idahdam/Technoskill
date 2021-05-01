@@ -15,7 +15,11 @@ Files:
 
 ### Day 2
 
+Link:
+- [Powerpoint](https://docs.google.com/presentation/d/1nSoOF_ylmyyB5mAXBBl2EbqILROmFpl3euQhW1npVRg/edit#slide=id.p)
 
+File:
+- [wisconsin.csv](https://raw.githubusercontent.com/idahdam/Technoskill/master/wiscosin.csv)
 
 ### Day 3
 
